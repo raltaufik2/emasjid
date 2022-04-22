@@ -1,0 +1,371 @@
+2022-04-21T06:23:16+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T06:23:22+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin.php(34): require_once('/var/www/html/d...')
+#9 /var/www/html/digital_masjid/ in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T06:23:36+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin.php(34): require_once('/var/www/html/d...')
+#9 /var/www/html/digital_masjid/ in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:20:24+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:20:25+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:20:27+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin.php(34): require_once('/var/www/html/d...')
+#9 /var/www/html/digital_masjid/ in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:20:33+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:21:24+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:21:30+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:21:33+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:23:25+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:23:30+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:23:34+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:25:26+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:25:30+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:25:35+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:27:27+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:27:30+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:27:36+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:28:47+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:28:48+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:28:52+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin.php(34): require_once('/var/www/html/d...')
+#9 /var/www/html/digital_masjid/ in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:29:00+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin.php(34): require_once('/var/www/html/d...')
+#9 /var/www/html/digital_masjid/ in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:29:11+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin.php(34): require_once('/var/www/html/d...')
+#9 /var/www/html/digital_masjid/ in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:29:18+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin.php(34): require_once('/var/www/html/d...')
+#9 /var/www/html/digital_masjid/ in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:29:37+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
+2022-04-21T07:29:49+00:00 CRITICAL Uncaught Error: Class 'NinjaTablesPro\DataProviders\WPPostsProvider' not found in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php:393
+Stack trace:
+#0 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(111): NinjaTablesPro->loadDependencies()
+#1 /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php(462): NinjaTablesPro->boot()
+#2 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(307): {closure}()
+#3 /var/www/html/digital_masjid/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /var/www/html/digital_masjid/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /var/www/html/digital_masjid/wp-settings.php(587): do_action()
+#6 /var/www/html/digital_masjid/wp-config.php(100): require_once('/var/www/html/d...')
+#7 /var/www/html/digital_masjid/wp-load.php(50): require_once('/var/www/html/d...')
+#8 /var/www/html/digital_masjid/wp-admin/admin-ajax.php(22): require_once('/var/www/html/d...')
+#9 {main}
+  thrown in /var/www/html/digital_masjid/wp-content/plugins/ninja-tables/ninja-tables.php on line 393
+
